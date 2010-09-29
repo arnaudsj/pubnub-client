@@ -1,0 +1,21 @@
+{
+  "name": "pubnub-client",
+  "description": "Pubnub client for Node.js",
+  "version": "0.1.0",
+  "keywords": [ "pubnub", "node", "client" ],
+  "author": "Sébastien Arnaud <arnaudsj@gmail.com>",
+  "contributors": [
+    { "name": "Justin Vincent", "web": "http://techzinglive.com" },
+  ],
+  "licenses": [ "MIT" ],
+  "repositories": {
+    "type": "git",
+    "url": "http://github.com/arnaudsj/pubnub-client.git"
+  },
+  "bugs": { "web": "http://github.com/arnaudsj/pubnub-client/issues" },
+  "directories": { "lib": "./lib" },
+  "os": [ "linux", "darwin" ],
+  "dependencies": {},
+  "engines": { "node":  ">0.2.0" },
+  "main": "./lib/pubnub-client"
+}
