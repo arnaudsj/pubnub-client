@@ -1,7 +1,7 @@
 {
   "name": "pubnub-client",
   "description": "Pubnub client for Node.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [ "pubnub", "node", "client" ],
   "author": "Sébastien Arnaud <arnaudsj@gmail.com>",
   "contributors": [
