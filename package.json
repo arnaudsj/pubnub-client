@@ -5,7 +5,7 @@
   "keywords": [ "pubnub", "node", "client" ],
   "author": "Sébastien Arnaud <arnaudsj@gmail.com>",
   "contributors": [
-    { "name": "Justin Vincent", "web": "http://techzinglive.com" },
+    { "name": "Justin Vincent", "web": "http://techzinglive.com" }
   ],
   "licenses": [ "MIT" ],
   "repositories": {
